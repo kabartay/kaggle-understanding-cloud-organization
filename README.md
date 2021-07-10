@@ -7,8 +7,17 @@ Kaggle [competition](https://www.kaggle.com/c/understanding_cloud_organization) 
 [Slides](https://github.com/kabartay/kaggle-understanding-cloud-organization/blob/a850534b77e60b1b6caaac7651d14946caca5a2d/docs/slides_clouds_EEML2020.pdf) version presented at [EEML 2020](https://www.eeml.eu/previous-editions/eeml2020) summer school. And [Teaser](https://github.com/kabartay/kaggle-understanding-cloud-organization/blob/a850534b77e60b1b6caaac7651d14946caca5a2d/docs/teaser_clouds.pdf).  
 
 ### Co-authors and teammates:  
+[![Linkedin: kirill-vishniakov-605aa0142](https://img.shields.io/badge/-Kirill%20Vishniakov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirill-vishniakov-605aa0142/)](https://www.linkedin.com/in/kirill-vishniakov-605aa0142/)
+[![GitHub followers](https://img.shields.io/github/followers/LightnessOfBeing?style=social)](https://github.com/LightnessOfBeing)
+[![Kaggle Badge](https://img.shields.io/badge/-lightnezzofbeing-white?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/lightnezzofbeing)](https://www.kaggle.com/lightnezzofbeing)  
+[![Linkedin: circassia](https://img.shields.io/badge/-Mukharbek%20Organokov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/circassia/)](https://www.linkedin.com/in/circassia/)
+[![GitHub followers](https://img.shields.io/github/followers/kabartay?style=social)](https://github.com/kabartay)
+[![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-white?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay)
+[![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai)
+<!--
 - Kirill Vishnyakov: [GitHub](https://github.com/LightnessOfBeing) | [LinkedIn](https://www.linkedin.com/in/kirill-vishniakov-605aa0142/) | [Kaggle](https://www.kaggle.com/lightnezzofbeing)
 - Mukharbek Organokov: [GitHub](https://github.com/kabartay) | [LinkedIn](https://www.linkedin.com/in/circassia/) | [Kaggle](https://www.kaggle.com/muhakabartay/) | [Twitter](https://twitter.com/circassia_ai)  
+-->
 
 ### Citation
 
